@@ -1,0 +1,5 @@
+node_modules/
+mocha.json
+coverage/
+/.c9/
+dist/
